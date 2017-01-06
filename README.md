@@ -10,8 +10,10 @@
 在進入非繁殖季後，山麻雀會以小群至近百隻大群聚集活動一段時間，然後離開繁殖棲地，目前非繁殖季主要棲息地尚不明。
 ----------------------------------------------------------------------------------------------------------------------------
 > ** 山麻雀與麻雀照片 **
-![山麻雀公鳥](https://raw.githubusercontent.com/Bettyshen/pages/master/%E5%B1%B1%E9%BA%BB%E9%9B%80%E5%85%AC%E9%B3%A5(%E7%B9%81%E6%AE%96%E5%AD%A3).png)山麻雀公鳥![山麻雀母鳥](https://raw.githubusercontent.com/Bettyshen/pages/master/%E5%B1%B1%E9%BA%BB%E9%9B%80%E6%AF%8D%E9%B3%A5%20(2).png)
+![山麻雀公鳥](https://raw.githubusercontent.com/Bettyshen/pages/master/%E5%B1%B1%E9%BA%BB%E9%9B%80%E5%85%AC%E9%B3%A5(%E7%B9%81%E6%AE%96%E5%AD%A3).png)山麻雀公鳥
+<img src='https://raw.githubusercontent.com/Bettyshen/pages/master/%E5%B1%B1%E9%BA%BB%E9%9B%80%E5%85%AC%E9%B3%A5(%E7%B9%81%E6%AE%96%E5%AD%A3).png' width= '200'>
 
+![山麻雀母鳥](https://raw.githubusercontent.com/Bettyshen/pages/master/%E5%B1%B1%E9%BA%BB%E9%9B%80%E6%AF%8D%E9%B3%A5%20(2).png)
 山麻雀母鳥
 
 ![麻雀](https://raw.githubusercontent.com/Bettyshen/pages/master/%E9%BA%BB%E9%9B%80.png)
