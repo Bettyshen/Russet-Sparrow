@@ -1,4 +1,6 @@
 # 消失危機-山麻雀
+1. 山麻雀小檔案
+2.
 **山麻雀小檔案**
 ===========================
 山麻雀(*Passer rutilans*)與麻雀(*Passer montanus*)均為麻雀科的鳥類，兩者體型與外觀十分相近，最大辨識特徵為麻雀臉頰具有黑色斑塊，並且有完整的白色頸圈，山麻雀則無。此外，山麻雀為雌雄二型，公母外型明顯差異，麻雀公母外觀則差異不大。
@@ -13,4 +15,4 @@
 ====================================================================
 ![山麻雀研討會關東旗](https://raw.githubusercontent.com/Bettyshen/pages/master/%E5%B1%B1%E9%BA%BB%E9%9B%80%E9%97%9C%E6%9D%B1%E6%97%97-01.png）
 
-<img src='https://raw.githubusercontent.com/Bettyshen/pages/master/%E5%B1%B1%E9%BA%BB%E9%9B%80%E9%97%9C%E6%9D%B1%E6%97%97-01.png' width='480' >
+<img src='https://raw.githubusercontent.com/Bettyshen/pages/master/%E5%B1%B1%E9%BA%BB%E9%9B%80%E9%97%9C%E6%9D%B1%E6%97%97-01.png' width='100' >
